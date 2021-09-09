@@ -1,4 +1,5 @@
 **LABORATORY WORK 1**
+
 Application Skunk SBT is focused on the import, parsing, analysis and saving on a local machine policies of the different companies. 
 
 **How to use it?**
