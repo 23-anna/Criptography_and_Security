@@ -111,8 +111,6 @@ def deselect_all():
     for struct in structure:
         lstbox.selection_clear(0, END)
 
-
-# **************************************************************************
 def make_query(struct):
     query = 'reg query ' + struct ['reg_key'] + ' /v ' + struct ['reg_item']
     out = subprocess.Popen(query,
